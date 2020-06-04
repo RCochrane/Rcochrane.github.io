@@ -14,7 +14,7 @@ description              : &description "Biochemistry Ph.D Candidate"
 url                      : https://rcochrane.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Rcochrane.github.io"
-teaser                   : "/images/ryan.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ryan Cochrane"
-  avatar           : "https://Rcochrane.github.io/images/ryan.png"
+  name             : "Ryan R. Cochrane"
+  avatar           : "/images/ryan.png"
   bio              : "I am studying the aglae, Phaeodactylum tricornutum. After cloning this diatom's mitochondrial genome, I am developing methods of mitochondrial DNA delivery in this model system."
   location         : "London, ON"
   employer         : "University of Western Ontario"
