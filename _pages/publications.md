@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Publications"
-permalink: https://rcochrane.github.io/publications/
+permalink: /publications/
 author_profile: true
 ---
 
