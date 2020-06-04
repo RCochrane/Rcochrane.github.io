@@ -15,8 +15,8 @@ main:
   - title: "Blog Posts"
     url: https://rcochrane.github.io/year-archive/
     
-  - title: "CV Summary"
-    url: https://rcochrane.github.io/cv-summary/
+  - title: "CV"
+    url: https://rcochrane.github.io/resume/
     
   - title: "Guide"
     url: https://rcochrane.github.io/markdown/
