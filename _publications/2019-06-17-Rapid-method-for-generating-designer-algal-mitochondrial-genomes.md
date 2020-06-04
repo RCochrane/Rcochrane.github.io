@@ -8,6 +8,7 @@ venue: 'bioRxiv'
 paperurl: 'http://rcochrane.github.io/files/paper2.pdf'
 citation: 'RR. Cochrane, SL. Brumwell, MPM. Soltysiak, S. Hamadache, JG. Davis, J. Wang, SQ. Tholl, P. Janakirama, DR. Edgell, BJ. Karas. (2019). &quot;Rapid method for generating designer algal mitochondrial genomes.&quot; <i>bioRxiv</i>. 0.'
 ---
+
 This paper establishes Phaeodactylum tricornutum as a model system for diatom organelle research. Following research will attempt to deliver DNA to the organelle compartments and develop genetic tools.
 
 [Download paper here](https://rcochrane.github.io/files/paper2.pdf)
