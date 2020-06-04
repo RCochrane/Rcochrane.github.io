@@ -54,7 +54,3 @@ for row, item in publications.iterrows():
        
     with open("https://rcochrane.github.io/_publications/" + md_filename, 'w') as f:
         f.write(md)  
-!ls https://rcochrane.github.io/_publications/
-!cat https://rcochrane.github.io/_publications/paper1.md
-!ls https://rcochrane.github.io/_publications/
-!!cat https://rcochrane.github.io/_publications/paper2.md
