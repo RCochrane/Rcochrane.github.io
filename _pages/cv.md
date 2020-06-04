@@ -1,7 +1,7 @@
 Education
 ======
 * BMSc. in Interdisciplinary Medical Sciences, University of Western Ontario, 2017
-* Ph.D in Biochemistry, University of Western Ontario, 2022-23 (expected)
+* Ph.D in Biochemistry, University of Western Ontario, 2022-23 (Expected)
 
 Work experience
 ======
