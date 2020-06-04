@@ -1,3 +1,13 @@
+---
+permalink: /
+title: "CV"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - https://rcochrane.github.io/about/
+  - https://rcochrane.github.io/about.html
+---
+
 Education
 ======
 * BMSc. in Interdisciplinary Medical Sciences, University of Western Ontario, 2017
