@@ -56,3 +56,4 @@ for row, item in publications.iterrows():
         f.write(md)  
 !ls https://rcochrane.github.io/_publications/
 !cat https://rcochrane.github.io/_publications/paper1.md
+!!cat https://rcochrane.github.io/_publications/paper2.md
