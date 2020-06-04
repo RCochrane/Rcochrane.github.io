@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ryan Cochrane"
-  avatar           : "/images/ryan.png"
+  avatar           : "https://Rcochrane.github.io/images/ryan.png"
   bio              : "I am studying the aglae, Phaeodactylum tricornutum. After cloning this diatom's mitochondrial genome, I am developing methods of mitochondrial DNA delivery in this model system."
   location         : "London, ON"
   employer         : "University of Western Ontario"
