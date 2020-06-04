@@ -56,4 +56,18 @@ for row, item in publications.iterrows():
         f.write(md)  
 !ls https://rcochrane.github.io/_publications/
 !cat https://rcochrane/_publications/2019-06-17-Designer-Sinorhizobium-meliloti-strains-and-multi-functional-vectors-enable-direct-inter-kingdom-DNA-transfer.md
+
+if len(str(item.excerpt)) > 5:
+        md += "\n" + html_escape(item.excerpt) + "\n"
+    
+    if len(str(item.paper_url)) > 5:
+        md += "\n[Download paper here](" + item.paper_url + ")\n" 
+        
+    md += "\nRecommended citation: " + item.citation
+    
+    md_filename = os.path.basename(md_filename)
+       
+    with open("https://rcochrane.github.io/_publications/" + md_filename, 'w') as f:
+        f.write(md)  
+!ls https://rcochrane.github.io/_publications/   
 !cat https://rcochrane/_publications//publication/2019-06-17-Rapid-method-for-generating-designer-algal-mitochondrial-genomes.md
