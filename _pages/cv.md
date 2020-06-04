@@ -1,3 +1,11 @@
+permalink: /
+ title: "CV Summary"
+ excerpt: "CV Summary"
+ author_profile: true
+ redirect_from: 
+   - /cv/
+   - /CV-summary.html
+
 Education
 ======
 * BMSc. in Interdisciplinary Medical Sciences, University of Western Ontario, 2017
