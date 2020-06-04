@@ -1,11 +1,11 @@
 ---
-permalink: /
+layout: archive
 title: "CV"
-excerpt: "About me"
+permalink: /cv/
 author_profile: true
-redirect_from: 
-  - https://rcochrane.github.io/about/
-  - https://rcochrane.github.io/about.html
+redirect_from:
+  - https://rcochrane.github.io/about/ 
+  - /resume
 ---
 
 Education
