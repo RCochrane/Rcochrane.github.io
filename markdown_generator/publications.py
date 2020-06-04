@@ -52,7 +52,7 @@ for row, item in publications.iterrows():
     
     md_filename = os.path.basename(md_filename)
        
-    with open("../_publications/" + md_filename, 'w') as f:
+    with open("https://rcochrane.github.io/_publications/" + md_filename, 'w') as f:
         f.write(md)  
-!ls ../_publications/
-!cat ../_publications/paper1.md
+!ls https://rcochrane.github.io/_publications/
+!cat https://rcochrane.github.io/_publications/paper1.md
