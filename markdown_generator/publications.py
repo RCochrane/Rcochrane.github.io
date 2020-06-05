@@ -1,14 +1,14 @@
-!cat publications.tsv		
- import pandas as pd		
- publications = pd.read_csv("publications.tsv", sep="\t", header=0)		
- publications		
- html_escape_table = {		
+!cat https://rcochrane.github.io/markdown_generator/publications.tsv		
+import pandas as pd		
+publications = pd.read_csv("https://rcochrane.github.io/markdown_generator/publications.tsv", sep="\t", header=0)		
+publications		
+html_escape_table = {		
      "&": "&amp;",		
      '"': "&quot;",		
      "'": "&apos;"		
      }		
 
-  def html_escape(text):		
+def html_escape(text):		
      """Produce entities within text."""		
      return "".join(html_escape_table.get(c,c) for c in text)		
      import os		
