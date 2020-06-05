@@ -2,6 +2,7 @@
 import pandas as pd
 publications = pd.read_csv("publications.tsv", sep="\t", header=0)
 publications
+
 html_escape_table = {
     "&": "&amp;",
     '"': "&quot;",
@@ -11,6 +12,7 @@ html_escape_table = {
 def html_escape(text):
     """Produce entities within text."""
     return "".join(html_escape_table.get(c,c) for c in text)
+
 import os
 for row, item in publications.iterrows():
     
@@ -24,7 +26,7 @@ for row, item in publications.iterrows():
     
     md += """collection: publications"""
     
-    md += """\npermalink: https://rcochrane.github.io/publication/""" + html_filename
+    md += """\npermalink: /publication/""" + html_filename
     
     if len(str(item.excerpt)) > 5:
         md += "\nexcerpt: '" + html_escape(item.excerpt) + "'"
