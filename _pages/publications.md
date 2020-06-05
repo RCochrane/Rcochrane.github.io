@@ -1,7 +1,14 @@
 ---
 layout: archive
 title: "Publications"
-permalink: https://rcochrane.github.io/publications/
+permalink: https://rcochrane.github.io/publications/2019-06-17-Designer-Sinorhizobium-meliloti-strains-and-multi-functional-vectors-enable-direct-inter-kingdom-DNA-transfer
+author_profile: true
+---
+
+---
+layout: archive
+title: "Publications"
+permalink: https://rcochrane.github.io/publications/2019-12-19-Rapid-method-for-generating-designer-algal-mitochondrial-genomes
 author_profile: true
 ---
 
