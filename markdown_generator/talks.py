@@ -17,7 +17,6 @@ def html_escape(text):
         return "False"
 
 loc_dict = {}
-
 for row, item in talks.iterrows():
     
     md_filename = str(item.date) + "-" + item.url_slug + ".md"
@@ -25,6 +24,7 @@ for row, item in talks.iterrows():
     year = item.date[:4]
     
     md = "---\ntitle: \""   + item.title + '"\n'
+    
     md += "collection: talks" + "\n"
     
     if len(str(item.type)) > 3:
@@ -43,17 +43,14 @@ for row, item in talks.iterrows():
     if len(str(item.location)) > 3:
         md += 'location: "' + str(item.location) + '"\n'
            
-    md += "---\n"
-    
+    md += "---\n" 
     
     if len(str(item.talk_url)) > 3:
         md += "\n[More information here](" + item.talk_url + ")\n" 
         
-    
     if len(str(item.description)) > 3:
         md += "\n" + html_escape(item.description) + "\n"
-        
-        
+          
     md_filename = os.path.basename(md_filename)
     #print(md)
     
