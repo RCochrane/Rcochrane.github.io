@@ -60,4 +60,4 @@ for row, item in talks.iterrows():
     with open("https://rcochrane.github.io/_talks/" + md_filename, 'w') as f:
         f.write(md)
 !ls https://rcochrane.github.io/_talks
-!cat https://rcochrane.github.io/_talks/2013-03-01-tutorial-1.md
+!cat https://rcochrane.github.io/_talks/2019-05-27-talk-1.md
