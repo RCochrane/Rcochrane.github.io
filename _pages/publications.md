@@ -8,7 +8,7 @@ author_profile: true
 ---
 layout: archive
 title: "Publications"
-permalink: https://rcochrane.github.io/publications/2019-12-19-Rapid-method-for-generating-designer-algal-mitochondrial-genomes
+permalink: 'https://rcochrane.github.io/publications/2019-12-19-Rapid-method-for-generating-designer-algal-mitochondrial-genomes'
 author_profile: true
 ---
 
