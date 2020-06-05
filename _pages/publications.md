@@ -1,8 +1,10 @@
 ---
-layout: archive
+permalink: /pages/publications.md
 title: "Publications"
-permalink: https://rcochrane.github.io/publications/
 author_profile: true
+redirect_from: 
+  - /publications/
+  - /pages/publications.md
 ---
 
 {% if author.googlescholar %}
