@@ -24,7 +24,7 @@ for row, item in publications.iterrows():
     
     md += """collection: publications"""
     
-    md += """\npermalink: /publication/""" + html_filename
+    md += """\npermalink: https://rcochrane.github.io/publication/""" + html_filename
     
     if len(str(item.excerpt)) > 5:
         md += "\nexcerpt: '" + html_escape(item.excerpt) + "'"
@@ -52,7 +52,7 @@ for row, item in publications.iterrows():
     
     md_filename = os.path.basename(md_filename)
        
-    with open("../_publications/" + md_filename, 'w') as f:
+    with open("https://rcochrane.github.io/_publications/" + md_filename, 'w') as f:
         f.write(md)
 !ls https://rcochrane.github.io/_publications/
 !cat https://rcochrane.github.io/_publications/2019-06-17-Designer-Sinorhizobium-meliloti-strains-and-multi-functional-vectors-enable-direct-inter-kingdom-DNA-transfer.md
