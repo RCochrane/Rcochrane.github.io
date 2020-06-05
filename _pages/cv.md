@@ -50,6 +50,19 @@ Service and Leadership
   
 * Volunteering
 
+  * Rotary Internation (2020-)
+  * Forest City Synthetic Biology (2019-)
+  * Strong Bone Stong Minds Strong Muscles (2017-)
+  * Be-Al-U-Can-B (2017-)
+  * Raising Hope (2017-)
+  
+Committee experience
+======
+* Chair: Community Events - Rotary Internation (2020-)
+* Steering Committee Member - Forest City Synthetic Biology (2019-)
+* Chair: Communitcations and Outreach - Biochemistry Graduate Student Associations (BGSA) (2019-)
+* Committee Member - Biochemistry Graduate Student Associations (BGSA) (2018-2019)
+
 Work experience
 ======
 * Summer 2015: Research Assistant
@@ -93,3 +106,18 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
+Event Participation
+======
+* International Conference on Engineering Synthetic Cells and Organelles (Conference/Workshop) - Attendee (2020/5)
+* Build-A-Cell Workshop #6 (Conference) - Poster Presenter (2020/1)
+* Harold B. Stewart Memorial Lecture and Research Showcase (Conference) - Attendee (2020/1)
+* Synthetic Biology Symposium 4.0 (Conference) - Speaker (2019/5)
+* Canada SynBio 2019 (Conference) - Attendee (2019/03)
+* London Health Research Day (Conference) - Poster Presenter (2019/4)
+* Build-A-Cell #4 (Workshop) - Attendee, (2019/02)
+* Canadian Algal Workshop (Workshop) - Poster Presenter (2019/2)
+* Build-A-Cell #3 (Workshop) - Attendee  (2018/8)
+* Synthetic Biology Symposium 3.0: Inventing the Future (Conference) - Poster Presenter (2018/7)
+* London Health Research Day (Conference) - Poster Presenter (2018/5)
+* Harold B. Stewart Memorial Lecture and Research Showcase (Conference) - Poster Presenter (2018/1)
+* Symposium on Synthetic Biology 2.0 (Conference) - Poster Presenter (2017/7)
