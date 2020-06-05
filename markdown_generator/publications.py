@@ -24,7 +24,7 @@
 
       md += """collection: publications"""		
 
-      md += """\npermalink: /publications/""" + html_filename		
+      md += """\npermalink: https://rcochrane.github.io/publications/""" + html_filename		
 
       if len(str(item.excerpt)) > 5:		
          md += "\nexcerpt: '" + html_escape(item.excerpt) + "'"		
