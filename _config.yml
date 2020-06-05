@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ryan R. Cochrane"
-  avatar           : "/images/ryan.png"
+  avatar           : "https://rcochrane.github.io/images/ryan.png"
   bio              : "Biochemistry Ph.D Candidate
                       University of Western Ontario"
   location         : "London, ON"
