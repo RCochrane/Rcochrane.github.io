@@ -109,6 +109,7 @@ Talks
 Event Participation
 ======
 * International Conference on Engineering Synthetic Cells and Organelles (Conference/Workshop) - Attendee (2020/5)
+* London Health Research Day (Conference) - Poster Presenter (2020/5)
 * Build-A-Cell Workshop #6 (Conference) - Poster Presenter (2020/1)
 * Harold B. Stewart Memorial Lecture and Research Showcase (Conference) - Attendee (2020/1)
 * Synthetic Biology Symposium 4.0 (Conference) - Speaker (2019/5)
