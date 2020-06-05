@@ -54,5 +54,5 @@ for row, item in publications.iterrows():
        
     with open("../_publications/" + md_filename, 'w') as f:
         f.write(md)
-!ls ../_publications/
-!cat ../_publications/2009-10-01-paper-title-number-1.md
+!ls https://rcochrane.github.io/_publications/
+!cat https://rcochrane.github.io/_publications/2019-06-17-Designer-Sinorhizobium-meliloti-strains-and-multi-functional-vectors-enable-direct-inter-kingdom-DNA-transfer.md
