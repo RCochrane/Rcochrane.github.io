@@ -1,7 +1,7 @@
 ---
 title: "Rapid method for generating designer algal mitochondrial genomes"
 collection: publications
-permalink: /publication/2019-12-19-Rapid-method-for-generating-designer-algal-mitochondrial-genomes
+permalink: /publications/2019-12-19-Rapid-method-for-generating-designer-algal-mitochondrial-genomes
 excerpt: 'This paper is demonstrates the methods for cloning and engineering of Phaeodactylum tricornutums mitochondrial genome. The mitochondrial genome was cloned in yeast and bacteria and found no significant host burden.'
 date: 2019-12-19
 venue: 'bioRxiv'
