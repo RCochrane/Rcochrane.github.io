@@ -1,7 +1,7 @@
 ---
 title: "Designer Sinorhizobium meliloti strains and multi-functional vectors enable direct inter-kingdom DNA transfer"
 collection: publications
-permalink: /publication/2019-06-17-Designer-Sinorhizobium-meliloti-strains-and-multi-functional-vectors-enable-direct-inter-kingdom-DNA-transfer
+permalink: /publications/2019-06-17-Designer-Sinorhizobium-meliloti-strains-and-multi-functional-vectors-enable-direct-inter-kingdom-DNA-transfer
 excerpt: 'This paper establishes S. meliloti as a effective microbial host to GC-rich DNA. This research will enable manipulation of soil microbiomes, and cloning of previously difficult DNA.'
 date: 2019-06-17
 venue: 'PLOS One'
