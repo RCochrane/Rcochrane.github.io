@@ -8,8 +8,6 @@ date: 2018-01-01
 location: "London, Canada"
 ---
 
-University of Western Ontario Course
-
 [Course Outline](https://www.uwo.ca/biology/pdf/undergraduate/2020%20Biology%201002B%20Course%20Outline.pdf)
 Course Code: 1002B
 
