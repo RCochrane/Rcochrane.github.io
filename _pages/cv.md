@@ -77,7 +77,7 @@ Service and Leadership
 * Western Synthetic Biology Research Program: WSBR (2017-2019)
   * Team Mentor
   
-  Publications
+Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
