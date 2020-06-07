@@ -12,6 +12,13 @@ citation: 'SL. Brumwell, MR. MacLeod, T. Huang, RR. Cochrane, RS. Meaney, M. Zam
 
 
 <br/><img src='https://rcochrane.github.io/images/paper1coverphoto.png'>
-(https://rcochrane.github.io/files/paper1.pdf)
+
+<br/><img src='https://rcochrane.github.io/images/paper1figure1.png'>
+
+<br/><img src='https://rcochrane.github.io/images/paper1table1.png'>
+
+<br/><img src='https://rcochrane.github.io/images/paper1figure2.png'>
+
+<br/><img src='https://rcochrane.github.io/images/paper1table2.png'>
 
 Recommended citation: SL. Brumwell, MR. MacLeod, T. Huang, RR. Cochrane, RS. Meaney, M. Zamani, O. Matysiakiewicz, KN. Dan, P. Janakirama, DR. Edgell, TC. Charles, TM. Finan, BJ. Karas. (2019). "Designer Sinorhizobium meliloti strains and multi-functional vectors enable direct inter-kingdom DNA transfer." <i>PLoS ONE</i>. 14(7): e0219562.
