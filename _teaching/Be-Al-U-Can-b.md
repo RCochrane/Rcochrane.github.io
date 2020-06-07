@@ -1,7 +1,7 @@
 ---
 title: "Be-Al-U-Can B"
 collection: teaching
-type: "Organization"
+type: "Workshop"
 permalink: /teaching/Be-Al-U-Can-b
 venue: "University of Western Ontario"
 date: 2017-01-01
