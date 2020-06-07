@@ -1,5 +1,5 @@
 ---
-title: "Jennifer Davis - Thesis: The Development of Inducible Gene Expression in the diatom Phaeodactylum tricornutum."
+title: "Jennifer Davis - Thesis: The Development of Inducible Gene Expression in the diatom _Phaeodactylum tricornutum_"
 collection: teaching
 type: "Student Mentor"
 permalink: /teaching/Jennifer-Davis
