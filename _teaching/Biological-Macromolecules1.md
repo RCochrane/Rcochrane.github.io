@@ -12,7 +12,9 @@ location: "London, Canada"
 
 Course Code: 3381A
 
-Course Topic: Protein structure and function Level: Undergraduate 
+Course Topic: Protein structure and function 
+
+Level: Undergraduate 
 
 Section: Regulatory Protein Networks Academic 
 
