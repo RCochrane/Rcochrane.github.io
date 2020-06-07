@@ -58,3 +58,4 @@ for row, item in publications.iterrows():
         f.write(md)
 !ls https://rcochrane.github.io/_publications/
 !cat https://rcochrane.github.io/_publications/2019-06-17-Designer-Sinorhizobium-meliloti-strains-and-multi-functional-vectors-enable-direct-inter-kingdom-DNA-transfer.md
+!cat https://rcochrane.github.io/_publications/2019-12-19-Rapid-method-for-generating-designer-algal-mitochondrial-genomes.md
