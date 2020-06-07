@@ -9,6 +9,7 @@ location: "London, Canada"
 ---
 
 [Course Outline](https://www.uwo.ca/biology/pdf/undergraduate/2020%20Biology%201002B%20Course%20Outline.pdf)
+
 Course Code: 1002B
 
 Course Topic: An Introduction to Basic Biology for Science Course Level: Undergraduate
