@@ -31,7 +31,7 @@ Publications
 
 Service and Leadership
 ======
-* Students
+## Students
 
   * Samir Hamadache - 4th year thesis (2018-2019)
   * Thesis title: Directed evolution of the conjugative plasmid pTA-MOB for scientific and industrial applications.
@@ -48,7 +48,7 @@ Service and Leadership
   
   * Western Synthetic Biology Research Program: WSBR - Team Mentor (2017-2019)
   
-* Volunteering
+## Volunteering
 
   * Rotary Internation (2020-)
   * Forest City Synthetic Biology (2019-)
