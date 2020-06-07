@@ -8,13 +8,4 @@ date: 2017-01-01
 location: "London, Canada"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+This club is a science outreach program for middle school students. Graduate students prepare and present a science tutorial in the student's classroom in the hopes of sparking student interest and participation in basic science concepts. Another goal of the club is to spread awareness about ongoing local research.
