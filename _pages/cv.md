@@ -15,13 +15,13 @@ Education
 
 Awards
 ======
-* **Scholarship** - OGS (2020): $15,000 (CND)
-* **Award** - NSF RCN Travel Award, Build-A-Cell Workshop #6 (2019): $400 (US)
-* **Award** - NSF RCN Travel Award: SynCell2020 (2019): $750 (US)
-* **Award** - 1st Place at SynBio Hacks Case Competition (2018): N/A
-* **Award** - Harold B. Stewart Memorial Lecture and Research Showcase: 2nd Place Poster Presenter (2018): $20 (CND)
-* **Award** - Symposium on Synthetic Biology 2.0: Poster Prize Winner Second Place (2017): $150 (CND)
-* **Scholarship** - The Western Scholarship Of Excellence (2013): $2000 (CND)
+#### **Scholarship** - OGS (2020): $15,000 (CND)
+#### **Award** - NSF RCN Travel Award, Build-A-Cell Workshop #6 (2019): $400 (US)
+#### **Award** - NSF RCN Travel Award: SynCell2020 (2019): $750 (US)
+#### **Award** - 1st Place at SynBio Hacks Case Competition (2018): N/A
+#### **Award** - Harold B. Stewart Memorial Lecture and Research Showcase: 2nd Place Poster Presenter (2018): $20 (CND)
+#### **Award** - Symposium on Synthetic Biology 2.0: Poster Prize Winner Second Place (2017): $150 (CND)
+#### **Scholarship** - The Western Scholarship Of Excellence (2013): $2000 (CND)
 
 Publications
 ======
