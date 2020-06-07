@@ -23,18 +23,6 @@ Awards
 * **Award** - Symposium on Synthetic Biology 2.0: Poster Prize Winner Second Place (2017): $150 (CND)
 * **Scholarship** - The Western Scholarship Of Excellence (2013): $2000 (CND) 
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-
 Event Participation
 ======
 * International Conference on Engineering Synthetic Cells and Organelles (Conference/Workshop) - Attendee (2020/5)
@@ -88,6 +76,18 @@ Service and Leadership
   
 * Western Synthetic Biology Research Program: WSBR (2017-2019)
   * Team Mentor
+  
+  Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Talks & Presentations
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
 
 Work experience
 ======
