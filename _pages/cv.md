@@ -33,20 +33,23 @@ Service and Leadership
 ======
 ## Students
 
-  * Samir Hamadache - 4th year thesis (2018-2019)
-  * Thesis title: Directed evolution of the conjugative plasmid pTA-MOB for scientific and industrial applications.
+### Samir Hamadache - 4th year thesis (2018-2019)
+#### **Thesis title:** Directed evolution of the conjugative plasmid pTA-MOB for scientific and industrial applications.
  
-  * Jennifer Davis - 3rd year thesis/lab volunteer (2018-2020)
-  * Thesis title: The Development of Inducible Gene Expression in the diatom Phaeodactylum tricornutum.
+### Jennifer Davis - 3rd year thesis/lab volunteer (2018-2020)
+#### **Thesis title:** The Development of Inducible Gene Expression in the diatom Phaeodactylum tricornutum.
   
-  * Daniel Tsyplenkov - 4th year theis (2017-2018)
-  * Thesis title: Cloning of chloroplast genome from Phaeodactylum tricornutum in yeast.
+### Daniel Tsyplenkov - 4th year theis (2017-2018)
+#### **Thesis title:** Cloning of chloroplast genome from Phaeodactylum tricornutum in yeast.
   
-  * Joy Wang - Undergraduate Volunteer (2018-2021)
+### Joy Wang (2018-2021)
+#### Undergraduate Volunteer
   
-  * Samuel Tholl - Undergraduate Volunteer (2018-2020)
+### Samuel Tholl (2018-2020)
+#### Undergraduate Volunteer 
   
-  * Western Synthetic Biology Research Program: WSBR - Team Mentor (2017-2019)
+### Western Synthetic Biology Research Program: WSBR (2017-2019)
+#### Team Mentor
   
 ## Volunteering
 
