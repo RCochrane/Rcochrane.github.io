@@ -1,7 +1,7 @@
 ---
 title: "Thesis: Cloning of chloroplast genome from Phaeodactylum tricornutum in yeast."
 collection: teaching
-type: "Student"
+type: "Student Mentor"
 permalink: /teaching/Daniel-Tsyplenkov
 venue: "University of Western Ontario"
 date: 2017-09-01
