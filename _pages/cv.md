@@ -23,6 +23,7 @@ Awards
 #### **Award** - Symposium on Synthetic Biology 2.0: Poster Prize Winner Second Place (2017): $150 (CND)
 #### **Scholarship** - The Western Scholarship Of Excellence (2013): $2000 (CND)
 
+
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -33,23 +34,23 @@ Service and Leadership
 ======
 ## Students
 
-### Samir Hamadache - 4th year thesis (2018-2019)
-#### **Thesis title:** Directed evolution of the conjugative plasmid pTA-MOB for scientific and industrial applications.
+* Samir Hamadache - 4th year thesis (2018-2019)
+** **Thesis title:** Directed evolution of the conjugative plasmid pTA-MOB for scientific and industrial applications.
  
-### Jennifer Davis - 3rd year thesis/lab volunteer (2018-2020)
-#### **Thesis title:** The Development of Inducible Gene Expression in the diatom Phaeodactylum tricornutum.
+* Jennifer Davis - 3rd year thesis/lab volunteer (2018-2020)
+** **Thesis title:** The Development of Inducible Gene Expression in the diatom Phaeodactylum tricornutum.
   
-### Daniel Tsyplenkov - 4th year theis (2017-2018)
-#### **Thesis title:** Cloning of chloroplast genome from Phaeodactylum tricornutum in yeast.
+* Daniel Tsyplenkov - 4th year theis (2017-2018)
+** **Thesis title:** Cloning of chloroplast genome from Phaeodactylum tricornutum in yeast.
   
-### Joy Wang (2018-2021)
-#### Undergraduate Volunteer
+* Joy Wang (2018-2021)
+** Undergraduate Volunteer
   
-### Samuel Tholl (2018-2020)
-#### Undergraduate Volunteer 
+* Samuel Tholl (2018-2020)
+** Undergraduate Volunteer 
   
-### Western Synthetic Biology Research Program: WSBR (2017-2019)
-#### Team Mentor
+* Western Synthetic Biology Research Program: WSBR (2017-2019)
+** Team Mentor
   
 ## Volunteering
 
