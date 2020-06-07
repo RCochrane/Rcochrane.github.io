@@ -12,7 +12,9 @@ location: "London, Canada"
 
 Course Code: 1002B
 
-Course Topic: An Introduction to Basic Biology for Science Course Level: Undergraduate
+Course Topic: An Introduction to Basic Biology for Science Course 
+
+Level: Undergraduate
 
 Number of Students: 40 
 
