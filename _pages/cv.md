@@ -53,54 +53,54 @@ Service and Leadership
   * Team Mentor
   
 ## Volunteering
-
-  * Rotary Internation (2020-)
-  * Forest City Synthetic Biology (2019-)
-  * Strong Bone Stong Minds Strong Muscles (2017-)
-  * Be-Al-U-Can-B (2017-)
-  * Raising Hope (2017-)
+======
+  * **Rotary Internation** (2020-)
+  * **Forest City Synthetic Biology** (2019-)
+  * **Strong Bone Stong Minds Strong Muscles** (2017-)
+  * **Be-Al-U-Can-B** (2017-)
+  * **Raising Hope** (2017-)
   
 Committee experience
 ======
-* Chair: Community Events - Rotary Internation (2020-)
-* Steering Committee Member - Forest City Synthetic Biology (2019-)
-* Chair: Communitcations and Outreach - Biochemistry Graduate Student Associations (BGSA) (2019-)
-* Committee Member - Biochemistry Graduate Student Associations (BGSA) (2018-2019)
+* **Chair**: Community Events - Rotary Internation (2020-)
+* **Steering Committee Member** - Forest City Synthetic Biology (2019-)
+* **Chair**: Communitcations and Outreach - Biochemistry Graduate Student Associations (BGSA) (2019-)
+* **Committee Member** - Biochemistry Graduate Student Associations (BGSA) (2018-2019)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * University of Western Ontario
+* Summer 2015: **Research Assistant**
+  * _University of Western Ontario_
   * Duties included: Running experiments, maintaining moth populations, lab maintainance
   * Supervisor: Dr. J McNeil
 
-* Winter 2018: Teaching Assistant
+* Winter 2018: **Teaching Assistant**
   * Course: Biology for Science II (1002B)
-  * University of Western Ontario
+  * _University of Western Ontario_
   * Duties included: Marking, skills lab set-up/clean-up, and directing in lab sessions
   * Supervisor: Winona Gadapati
 
-* Fall 2018: Teaching Assistant
+* Fall 2018: **Teaching Assistant**
   * Course: Biological Macromolecules (3381A)
-  * University of Western Ontario
+  * _University of Western Ontario_
   * Duties included: Marking, tutorial session, and held office hours.
   * Supervisor: Dr. M Junop
 
-* Summer 2019: Teaching Assistant
+* Summer 2019: **Teaching Assistant**
   * Course: Biochemistry and Molecular Biology (2280A)
-  * University of Western Ontario
+  * _University of Western Ontario_
   * Duties included: Marking. 
   * Supervisor: Dr. B Dempsey
 
-* Fall 2019: Teaching Assistant
+* Fall 2019: **Teaching Assistant**
   * Course: Biological Macromolecules (3381A)
-  * University of Western Ontario
+  * _University of Western Ontario_
   * Duties included: Marking, tutorial session, and held office hours.
   * Supervisor: Dr. M Junop
   
-* Spring 2020: Teaching Assistant
+* Spring 2020: **Teaching Assistant**
   * Course: Clinical Biochemistry (3386B)
-  * University of Western Ontario
+  * _University of Western Ontario_
   * Duties included: Marking and held office hours.
   * Supervisor: Dr. A Rutledge
 
