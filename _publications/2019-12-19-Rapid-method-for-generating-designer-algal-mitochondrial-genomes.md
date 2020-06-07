@@ -12,7 +12,9 @@ citation: 'RR. Cochrane, SL. Brumwell, MPM. Soltysiak, S. Hamadache, JG. Davis, 
 
 <br/><img src='https://rcochrane.github.io/images/paper1coverphoto.png'>
 
-<br/><img src='https://rcochrane.github.io/images/paper1fig1.png'>
+# Figures and Tables
+
+<br/><img src='https://rcochrane.github.io/images/paper1figure1.png'>
 **Figure 1.** Design-Build-Test cycle for the rapid engineering of organelle genomes. **A)** Genomes will be designed based on existing knowledge and discoveries from previous cycles; in the build stage, genomes will be synthesized, then assembled and cloned in yeast; in the test stage, genomes will be isolated from yeast, moved to an intermediate prokaryotic host and delivered directly or indirectly to the destination organelle compartment to test for viability, function, and localization. **B-C)** Schematic of the approaches used to clone the mitochondrial genomes of _P. tricornutum_. **B)** TAR cloning method; **C)** PCR-based cloning method. Step I differs between the PCR and TAR cloning methods where, for the PCR method, multiple overlapping fragments are amplified, while for the TAR cloning method, genomic DNA is linearized at a specific location. For both methods, the plasmid backbone contains homology overlaps to the appropriate fragments or location in the genome. Steps II-IV are the same for both methods including DNA transformation and assembly in _S. cerevisiae_ via homologous recombination, and transfer of clone genomes into _E. coli_.
 
 **Table 1.** Cloning of the _P. tricornutum_ mitochondrial genome in the host organisms _S. cerevisiae_ and _E. coli_. Two PCR-cloning assemblies and one TAR-cloning assembly were performed. For the _E. coli selection_ media, CM indicates chloramphenicol antibiotic.
@@ -24,7 +26,7 @@ citation: 'RR. Cochrane, SL. Brumwell, MPM. Soltysiak, S. Hamadache, JG. Davis, 
 **Table 2** Summary of mutations identified in the cloned _P. tricornutum_ mitochondrial plasmids. Identified mutations are categorized as point mutations or, gap mutations.
 <br/><img src='https://rcochrane.github.io/images/paper1table2.png'>
 
-<br/><img src='https://rcochrane.github.io/images/paper1figure3.png'>
+<br/><img src='https://rcochrane.github.io/images/paper1fig3.png'>
 **Figure 3.** Analysis of growth of _S. cerevisiae_ and _E. coli_ strains harbouring cloned _P. tricornutum_ mitochondrial genomes on solid media and in liquid media. **A)** Dilutions of _S. cerevisiae_ strains plated on solid synthetic complete media lacking histidine. **B)** Dilutions of _E. coli_ strains plated on solid LB media supplemented with chloramphenicol only or with chloramphenicol and arabinose to increase plasmid copy number. **C)** Growth curves of _S. cerevisiae_ strains grown in liquid synthetic complete media lacking histidine. **D)** Growth curves of _E. coli_ grown in liquid LB media supplemented with chloramphenicol only or with chloramphenicol and arabinose. Td - doubling time.
 
 Recommended citation: RR. Cochrane, SL. Brumwell, MPM. Soltysiak, S. Hamadache, JG. Davis, J. Wang, SQ. Tholl, P. Janakirama, DR. Edgell, BJ. Karas. (2019). "Rapid method for generating designer algal mitochondrial genomes." <i>bioRxiv</i>. 0.
