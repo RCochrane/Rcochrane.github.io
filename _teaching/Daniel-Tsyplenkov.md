@@ -1,5 +1,5 @@
 ---
-title: "Thesis: Cloning of chloroplast genome from Phaeodactylum tricornutum in yeast."
+title: "**Thesis:** Cloning of chloroplast genome from _Phaeodactylum tricornutum_ in yeast."
 collection: teaching
 type: "Student Mentor"
 permalink: /teaching/Daniel-Tsyplenkov
