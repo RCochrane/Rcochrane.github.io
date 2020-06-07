@@ -10,15 +10,4 @@ citation: 'SL. Brumwell, MR. MacLeod, T. Huang, RR. Cochrane, RS. Meaney, M. Zam
 ---
 **ABSTRACT** Storage, manipulation and delivery of DNA fragments is crucial for synthetic biology applications, subsequently allowing organisms of interest to be engineered with genes or pathways to produce desirable phenotypes such as disease or drought resistance in plants, or for synthesis of a specific chemical product. However, DNA with high GC content can be unstable in many host organisms including _Saccharomyces cerevisiae_. Here, we report the development of _Sinorhizobium meliloti_, a nitrogen-fixing plant symbiotic alpha-Proteobacterium, as a novel host that can store DNA, and mobilize DNA to _E. coli_, _S. cerevisiae_, and the eukaryotic microalgae _Phaeodactylum tricornutum_. To achieve this, we deleted the hsdR restriction-system in multiple reduced genome strains of _S. meliloti_ that enable DNA transformation with up to 1.4 x 10<sup>5</sup> and 2.1 x 10<sup>3</sup> CFU μg<sup>-1</sup> of DNA efficiency using electroporation and a newly developed polyethylene glycol transformation method, respectively. Multi-host and multi-functional shuttle vectors were constructed and stably propagated in _S. meliloti_, _E. coli_, _S. cerevisiae_, and _P. tricornutum_. We also developed protocols and demonstrated direct transfer of these multi-host shuttle vectors via conjugation from _S. meliloti_ to _E. coli_, _S. cerevisiae_, and _P. tricornutum_. The development of _S. meliloti_ as a new host for inter-kingdom DNA transfer will be invaluable for synthetic biology research and applications, including the installation and study of genes and biosynthetic pathways into organisms of interest in industry and agriculture.
 
-
-<br/><img src='https://rcochrane.github.io/images/paper1coverphoto.png'>
-
-<br/><img src='https://rcochrane.github.io/images/paper1figure1.png'>
-
-<br/><img src='https://rcochrane.github.io/images/paper1table1.png'>
-
-<br/><img src='https://rcochrane.github.io/images/paper1figure2.png'>
-
-<br/><img src='https://rcochrane.github.io/images/paper1table2.png'>
-
 Recommended citation: SL. Brumwell, MR. MacLeod, T. Huang, RR. Cochrane, RS. Meaney, M. Zamani, O. Matysiakiewicz, KN. Dan, P. Janakirama, DR. Edgell, TC. Charles, TM. Finan, BJ. Karas. (2019). "Designer Sinorhizobium meliloti strains and multi-functional vectors enable direct inter-kingdom DNA transfer." <i>PLoS ONE</i>. 14(7): e0219562.
