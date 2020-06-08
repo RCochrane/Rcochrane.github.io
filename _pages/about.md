@@ -13,8 +13,8 @@ Introduction
 Currently, I am training through the Biochemistry PhD program in Dr. Karas's lab, which focuses on developing innovative strategies for genome engineering. I study _Phaeodactylum tricornutum_, a eukaryotic micro-algae, and have created a platform for rapid organelle genome engineering in this model system. My research interests include: 1) organelle genome structure and evolution, and 2) developing novel biotechologies.
 
 <br/><img src='https://rcochrane.github.io/images/homepagefig2.png'>
-** Figure 1.** Three morphotypes of _Phaeodactylum tricornutum_. A) pennate; B) tri-radiate, and C) oval forms.
-Ovide et al., (2018). Comparative in depth RNA sequencing of P. tricornutum morphotypes reveals specific features of the oval morphotype. Retrieved from https://www.nature.com/articles/s41598-018-32519-7. [Click Here](https://www.nature.com/articles/s41598-018-32519-7)
+**Figure 1.** Three morphotypes of _Phaeodactylum tricornutum_. A) pennate; B) tri-radiate, and C) oval forms.
+Ovide et al., (2018). Comparative in depth RNA sequencing of _P. tricornutum_ morphotypes reveals specific features of the oval morphotype. Retrieved from https://www.nature.com/articles/s41598-018-32519-7.
 
 _P. tricornutum_ is a diatomaceous pennate alga with bi-lateral symmetry and different morphotypes. This species of diatom has garnered a lot of interest in industry due to its high lipid contents and photosynthetic capacity, which would make it an opportune organism for cheap production of biofuels. Additionally, the technologies required for efficient and effective genetic engineering have be an ongoing field of study in multiple labs. As a result, the genomes are sequenced, multiple methods of nuclear transformation and plasmid-based tools have been developed. However, little progress has been made with our ability to manipulate the organelle genomes of these organisms
 
