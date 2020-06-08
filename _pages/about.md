@@ -10,7 +10,7 @@ redirect_from:
 
 Introduction
 ======
-Currently, I am training through the Biochemistry PhD program in Dr. Karas's lab, which focuses on developing innovative strategies for genome engineering. I study _Phaeodactylum tricornutum_, a eukaryotic micro-algae, and have created a platform for rapid organelle genome engineering in this model system. My research interests include: 1) organelle genome structure and evolution, & 2) developing novel biotechologies.
+Currently, I am training through the Biochemistry PhD program in Dr. Karas's lab, which focuses on developing innovative strategies for genome engineering. I study _Phaeodactylum tricornutum_, a eukaryotic micro-algae, and have created a platform for rapid organelle genome engineering in this model system. My research interests include: 1) organelle genome structure and evolution, and 2) developing novel biotechologies.
 
 <br/><img src='https://rcochrane.github.io/images/homepagefig2.png'>
 ** Figure 1.** Three morphotypes of _Phaeodactylum tricornutum_. A) pennate; B) tri-radiate, and C) oval forms.
