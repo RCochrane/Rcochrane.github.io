@@ -12,6 +12,10 @@ Introduction
 ======
 Currently, I am training through the Biochemistry PhD program in Dr. Karas's lab, which focuses on developing innovative strategies for genome engineering. I study _Phaeodactylum tricornutum_, a eukaryotic micro-algae, and have created a platform for rapid organelle genome engineering in this model system. My research interests include: 1) organelle genome structure and evolution, & 2) developing novel biotechologies.
 
+<br/><img src='https://rcochrane.github.io/images/homepagefig2.png'>
+
+_P. tricornutum_ is a diatomaceous pennate alga with bi-lateral symmetry and different morphotypes. This species of diatom has garnered a lot of interest in industry due to its high lipid contents and photosynthetic capacity, which would make it an opportune organism for cheap production of biofuels. Additionally, the technologies required for efficient and effective genetic engineering have be an ongoing field of study in multiple labs. As a result, the genomes are sequenced, multiple methods of nuclear transformation and plasmid-based tools have been developed. However, little progress has been made with our ability to manipulate the organelle genomes of these organisms
+
 The goal of my thesis is the development of technologies required to for the first-in-the-world method for whole mitochondrial genome replacement in a diatomaceous algae _Phaeodactylum tricornutum_. This will require systems for cloning and engineering of the mitochondrial genome, and methods for DNA delivery to the diatom's mitochondrial compartment.
 
 <br/><img src='https://rcochrane.github.io/images/homepagefig1.png'>
