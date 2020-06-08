@@ -15,7 +15,7 @@ Currently, I am training through the Biochemistry PhD program in Dr. Karas's lab
 The goal of my thesis is the development of technologies required to for the first-in-the-world method for whole mitochondrial genome replacement in a diatomaceous algae _Phaeodactylum tricornutum_. This will require systems for cloning and engineering of the mitochondrial genome, and methods for DNA delivery to the diatom's mitochondrial compartment.
 
 <br/><img src='https://rcochrane.github.io/images/homepagefig1.png'>
-* **Figure 1. Simplified Thesis Overview.** To deliver whole mitochondrial genomes to _Phaeodactylum tricornutum_'s mitochondria my thesis encompasses two main objectives. First, cloning and engineering of _P. tricornutum_ ’s mitochondrial genome, and then second development of the methods for its delivery back to the mitochondria.
+## **Figure 1. Simplified Thesis Overview.** To deliver whole mitochondrial genomes to _Phaeodactylum tricornutum_'s mitochondria my thesis encompasses two main objectives. First, cloning and engineering of _P. tricornutum_ ’s mitochondrial genome, and then second development of the methods for its delivery back to the mitochondria.
 
 Papers
 ======
