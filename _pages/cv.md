@@ -11,11 +11,13 @@ redirect_from:
 Education
 ======
 * **BMSc.** in Interdisciplinary Medical Sciences, University of Western Ontario, 2017
-* **Ph.D** in Biochemistry, University of Western Ontario, 2022-23 (Expected)
+* **Ph.D** in Biochemistry, University of Western Ontario, 2025 (Expected)
 
 Awards
 ======
-* **Scholarship** - OGS (2020): $15,000 (CND)
+* **Scholarship** - NSERC Postgraduate Scholarship (PGS-D) (2021): $63,000 (CND)
+* **Scholarship** - Ontario Graduate Scholarship (2021): $15,000 (CND) 
+* **Scholarship** - Ontario Graduate Scholarship (2020): $15,000 (CND)
 * **Award** - NSF RCN Travel Award, Build-A-Cell Workshop #6 (2019): $400 (US)
 * **Award** - NSF RCN Travel Award: SynCell2020 (2019): $750 (US)
 * **Award** - 1st Place at SynBio Hacks Case Competition (2018): N/A
@@ -25,7 +27,9 @@ Awards
 
 Event Participation
 ======
-* International Conference on Engineering Synthetic Cells and Organelles (Conference/Workshop) - Attendee (2020/5)
+* Phycological Society of America (PSA) 2021 Virtual Meeting (Conference/Workshop) - Speaker and Poster Presenter (2021/7)
+* Molecular Life of Diatoms 6 (MLB6) (Conference) - Poster Presenter (2021/7)
+* International Conference on Engineering Synthetic Cells and Organelles (Conference/Workshop) - Attendee (2021/5)
 * London Health Research Day (Conference) - Poster Presenter (2020/5)
 * Build-A-Cell Workshop #6 (Conference) - Poster Presenter (2020/1)
 * Harold B. Stewart Memorial Lecture and Research Showcase (Conference) - Attendee (2020/1)
@@ -50,8 +54,9 @@ Volunteering
   
 Committee experience
 ======
-* **Chair**: Community Events - Rotary Internation (2020-)
-* **Steering Committee Member** - Forest City Synthetic Biology (2019-)
+* **Mentor/RotarACT Club Sponsor**: - Rotary Internation InterACT Club of London (2020-)
+* **Chair**: Community Events - Rotary Internation RotarACT Club of London (2020-)
+* **Steering Committee Member** - Forest City Synthetic Biology (2019-20)
 * **Chair**: Communitcations and Outreach - Biochemistry Graduate Student Associations (BGSA) (2019-)
 * **Committee Member** - Biochemistry Graduate Student Associations (BGSA) (2018-2019)
 
