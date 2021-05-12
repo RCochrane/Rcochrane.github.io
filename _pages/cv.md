@@ -46,7 +46,7 @@ Event Participation
 
 Volunteering
 ======
-  * **Rotary Internation** (2020-)
+  * **Rotary Internation RotarACT Club of London** (2020-)
   * **Forest City Synthetic Biology** (2019-)
   * **Strong Bone Stong Minds Strong Muscles** (2017-)
   * **Be-Al-U-Can-B** (2017-)
