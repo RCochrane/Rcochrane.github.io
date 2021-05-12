@@ -54,8 +54,8 @@ for row, item in publications.iterrows():
     
     md_filename = os.path.basename(md_filename)
        
-    with open("https://ryancochrane.github.io/_publications/" + md_filename, 'w') as f:
+    with open("https://ryanrcochrane.github.io/_publications/" + md_filename, 'w') as f:
         f.write(md)
-!ls https://ryancochrane.github.io/_publications/
-!cat https://ryancochrane.github.io/_publications/2019-06-17-Designer-Sinorhizobium-meliloti-strains-and-multi-functional-vectors-enable-direct-inter-kingdom-DNA-transfer.md
-!cat https://ryancochrane.github.io/_publications/2019-12-19-Rapid-method-for-generating-designer-algal-mitochondrial-genomes.md
+!ls https://ryanrcochrane.github.io/_publications/
+!cat https://ryanrcochrane.github.io/_publications/2019-06-17-Designer-Sinorhizobium-meliloti-strains-and-multi-functional-vectors-enable-direct-inter-kingdom-DNA-transfer.md
+!cat https://ryanrcochrane.github.io/_publications/2019-12-19-Rapid-method-for-generating-designer-algal-mitochondrial-genomes.md
