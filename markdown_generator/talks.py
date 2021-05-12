@@ -54,7 +54,7 @@ for row, item in talks.iterrows():
     md_filename = os.path.basename(md_filename)
     #print(md)
     
-    with open("https://rcochrane.github.io/_talks/" + md_filename, 'w') as f:
+    with open("https://ryancochrane.io/_talks/" + md_filename, 'w') as f:
         f.write(md)
-!ls https://rcochrane.github.io/_talks
-!cat https://rcochrane.github.io/_talks/2019-05-27-talk-1.md
+!ls https://ryancochrane.io/_talks
+!cat https://ryancochrane.io/_talks/2019-05-27-talk-1.md
