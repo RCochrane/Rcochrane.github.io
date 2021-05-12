@@ -15,9 +15,9 @@ Education
 
 Awards
 ======
-* **Scholarship** - NSERC Postgraduate Scholarship (PGS-D) (2021): $63,000 (CND)
-* **Scholarship** - Ontario Graduate Scholarship (2021): $15,000 (CND) 
-* **Scholarship** - Ontario Graduate Scholarship (2020): $15,000 (CND)
+* **Scholarship** - NSERC Postgraduate Scholarship (PGS-D) (2021): $63,000 (CND) - **ACCEPTED** 
+* **Scholarship** - Ontario Graduate Scholarship (2021): $15,000 (CND) - **DECLINED** 
+* **Scholarship** - Ontario Graduate Scholarship (2020): $15,000 (CND) - **ACCEPTED** 
 * **Award** - NSF RCN Travel Award, Build-A-Cell Workshop #6 (2019): $400 (US)
 * **Award** - NSF RCN Travel Award: SynCell2020 (2019): $750 (US)
 * **Award** - 1st Place at SynBio Hacks Case Competition (2018): N/A
