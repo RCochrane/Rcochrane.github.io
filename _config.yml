@@ -11,9 +11,9 @@ title                    : "Ryan R. Cochrane"
 title_separator          : "-"
 name                     : &name "Ryan Cochrane"
 description              : &description "Biochemistry Ph.D Candidate"
-url                      : https://ryancochrane.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ryanrcochrane.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "ryancochrane.github.io"
+repository               : "ryanrcochrane.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ryan R. Cochrane"
-  avatar           : "https://ryancochrane.github.io/images/ryan.png"
+  avatar           : "https://ryanrcochrane.github.io/images/ryan.png"
   bio              : "Biochemistry Ph.D Candidate
                       University of Western Ontario"
   location         : "London, ON"
