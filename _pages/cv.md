@@ -4,7 +4,7 @@ title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - https://rcochrane.github.io/about/ 
+  - https://ryancochrane.io/about/ 
   - /cv
 ---
 
