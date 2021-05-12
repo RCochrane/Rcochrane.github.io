@@ -12,7 +12,7 @@ Introduction
 ======
 Currently, I am training through the Biochemistry PhD program in Dr. Karas's lab, which focuses on developing innovative strategies for genome engineering. I study _Phaeodactylum tricornutum_, a eukaryotic micro-algae, and have created a platform for rapid organelle genome engineering in this model system. My research interests include: 1) organelle genome structure and evolution, and 2) developing novel biotechologies.
 
-<br/><img src='https://rcochrane.github.io/images/homepagefig2.png'>
+<br/><img src='https://ryancochrane.io/images/homepagefig2.png'>
 **Figure 1.** Three morphotypes of _Phaeodactylum tricornutum_. A) pennate; B) tri-radiate, and C) oval forms.
 Ovide et al., (2018). Comparative in depth RNA sequencing of _P. tricornutum_ morphotypes reveals specific features of the oval morphotype. Retrieved from https://www.nature.com/articles/s41598-018-32519-7.
 
@@ -20,7 +20,7 @@ _P. tricornutum_ is a diatomaceous pennate alga with bi-lateral symmetry and dif
 
 The goal of my thesis is the development of technologies required to for the first-in-the-world method for whole mitochondrial genome replacement in a diatomaceous algae _Phaeodactylum tricornutum_. This will require systems for cloning and engineering of the mitochondrial genome, and methods for DNA delivery to the diatom's mitochondrial compartment.
 
-<br/><img src='https://rcochrane.github.io/images/homepagefig1.png'>
+<br/><img src='https://ryancochrane.io/images/homepagefig1.png'>
 **Figure 2. Simplified Thesis Overview.** To deliver whole mitochondrial genomes to _Phaeodactylum tricornutum_'s mitochondria my thesis encompasses two main objectives. First, cloning and engineering of _P. tricornutum_ ’s mitochondrial genome, and then second development of the methods for its delivery back to the mitochondria.
 
 Papers
